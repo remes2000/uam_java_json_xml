@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Poeci.xsl"?>
+<CollectionOfPoems>
+    <Poem YearOfPublication="1905" Language="de">
+        <Author>
+            <FirstName>Rainer Maria</FirstName>
+            <LastName>Rilke</LastName>
+        </Author>
+        <Title>Der Panther</Title>
+        <Subtitle>Im Jardin des Plantes, Paris</Subtitle>
+        <Strophe>
+            <Verse>Sein Blick ist vom Vorübergehn der Stäbe</Verse>
+            <Verse>so müd geworden, daß er nichts mehr hält.</Verse>
+            <Verse>Ihm ist, als ob es tausend Stäbe gäbe</Verse>
+            <Verse> und hinter tausend Stäben keine Welt.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Der weiche Gang geschmeidig starker Schritte,</Verse>
+            <Verse> der sich im allerkleinsten Kreise dreht,</Verse>
+            <Verse> ist wie ein Tanz von Kraft um eine Mitte,</Verse>
+            <Verse>in der betäubt ein großer Wille steht.</Verse>
+        </Strophe>
+        <Strophe>
+            <Verse> Nur manchmal schiebt der Vorhang der <Bold>Pupille</Bold></Verse>
+            <Verse>sich lautlos auf -. Dann geht ein Bild hinein,</Verse>
+            <Verse> geht durch der <Bold>Glieder</Bold> angespannte Stille -</Verse>
+            <Verse>und hört im <Bold>Herzen</Bold> auf zu sein.</Verse>
+        </Strophe>
+    </Poem>
+    
+    <Poem YearOfPublication="1799" Language="de">
+        <Author>
+            <FirstName>Johann Wolfgang</FirstName>
+            <LastName>von Goethe</LastName>
+        </Author>
+        <Title>Der Zauberlehrling</Title>
+        <Strophe>
+            <Verse>Hat der alte Hexenmeister</Verse>
+            <Verse>Sich doch einmal wegbegeben!</Verse>
+            <Verse>Und nun sollen seine Geister</Verse>
+            <Verse>Auch nach meinem Willen leben.</Verse>
+            <Verse>Seine Wort und Werke</Verse>
+            <Verse>Merkt ich und den Brauch,</Verse>
+            <Verse>Und mit Geistesstärke</Verse>
+            <Verse>Tu ich Wunder auch.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Walle! walle</Verse>
+            <Verse>Manche Strecke,</Verse>
+            <Verse>Daß, zum Zwecke,</Verse>
+            <Verse>Wasser fließe</Verse>
+            <Verse>Und mit reichem, vollem Schwalle</Verse>
+            <Verse>Zu dem Bade sich ergieße.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Und nun komm, du alter Besen,</Verse>
+            <Verse>Nimm die schlechten Lumpenhüllen!</Verse>
+            <Verse>Bist schon lange Knecht gewesen:</Verse>
+            <Verse>Nun erfülle meinen Willen!</Verse>
+            <Verse>Auf zwei <Bold>Beinen</Bold> stehe,</Verse>
+            <Verse>Oben sei ein Kopf,</Verse>
+            <Verse>Eile nun und gehe</Verse>
+            <Verse>Mit dem Wassertopf!</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Walle! walle</Verse>
+            <Verse>Manche Strecke,</Verse>
+            <Verse>Daß, zum Zwecke,</Verse>
+            <Verse>Wasser fließe</Verse>
+            <Verse>Und mit reichem, vollem Schwalle</Verse>
+            <Verse>Zu dem Bade sich ergieße.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Seht, er läuft zum Ufer nieder;</Verse>
+            <Verse>Wahrlich! ist schon an dem Flusse,</Verse>
+            <Verse>Und mit Blitzesschnelle wieder</Verse>
+            <Verse>Ist er hier mit raschem Gusse.</Verse>
+            <Verse>Schon zum zweiten Male!</Verse>
+            <Verse>Wie das Becken schwillt!</Verse>
+            <Verse>Wie sich jede Schale</Verse>
+            <Verse>Voll mit Wasser füllt!</Verse>
+            <Verse>Stehe! stehe!</Verse>
+            <Verse>Denn wir haben</Verse>
+            <Verse>Deiner Gaben</Verse>
+            <Verse>Vollgemessen! -</Verse>
+            <Verse>Ach, ich merk es! Wehe! wehe!</Verse>
+            <Verse>Hab ich doch das Wort vergessen!</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Ach, das Wort, worauf am Ende</Verse>
+            <Verse>Er das wird, was er gewesen.</Verse>
+            <Verse>Ach, er läuft und bringt behende!</Verse>
+            <Verse>Wärst du doch der alte Besen!</Verse>
+            <Verse>Immer neue Güsse</Verse>
+            <Verse>Bringt er schnell herein,</Verse>
+            <Verse>Ach! und hundert Flüsse</Verse>
+            <Verse>Stürzen auf mich ein!</Verse>
+            <Verse>Nein, nicht länger</Verse>
+            <Verse>Kann ich's lassen;</Verse>
+            <Verse>Will ihn fassen.</Verse>
+            <Verse>Das ist Tücke!</Verse>
+            <Verse>Ach, nun wird mir immer bänger!</Verse>
+            <Verse>Welche Miene! welche Blicke!</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>O du Ausgeburt der Hölle!</Verse>
+            <Verse>Soll das ganze Haus ersaufen?</Verse>
+            <Verse>Seh ich über jede Schwelle</Verse>
+            <Verse>Doch schon Wasserströme laufen.</Verse>
+            <Verse>Ein verruchter Besen,</Verse>
+            <Verse>Der nicht hören will!</Verse>
+            <Verse>Stock, der du gewesen,</Verse>
+            <Verse>Steh doch wieder still!</Verse>
+            <Verse>Willst's am Ende</Verse>
+            <Verse>Gar nicht lassen?</Verse>
+            <Verse>Will dich fassen,</Verse>
+            <Verse>Will dich halten</Verse>
+            <Verse>Und das alte Holz behende</Verse>
+            <Verse>Mit dem scharfen Beile spalten.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Seht, da kommt er schleppend wieder!</Verse>
+            <Verse>Wie ich mich nur auf dich werfe,</Verse>
+            <Verse>Gleich, o Kobold, liegst du nieder;</Verse>
+            <Verse>Krachend trifft die glatte Schärfe.</Verse>
+            <Verse>Wahrlich! brav getroffen!</Verse>
+            <Verse>Seht, er ist entzwei!</Verse>
+            <Verse>Und nun kann ich hoffen,</Verse>
+            <Verse>Und ich atme frei!</Verse>
+            <Verse>Wehe! wehe!</Verse>
+            <Verse>Beide Teile</Verse>
+            <Verse>Stehn in Eile</Verse>
+            <Verse>Schon als Knechte</Verse>
+            <Verse>Völlig fertig in die Höhe!</Verse>
+            <Verse>Helft mir, ach! ihr hohen Mächte!</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Und sie laufen! Naß und nässer</Verse>
+            <Verse>Wird's im Saal und auf den Stufen.</Verse>
+            <Verse>Welch entsetzliches Gewässer!</Verse>
+            <Verse>Herr und Meister! hör mich rufen! -</Verse>
+            <Verse>Ach, da kommt der Meister!</Verse>
+            <Verse>Herr, die Not ist groß!</Verse>
+            <Verse>Die ich rief, die Geister,</Verse>
+            <Verse>Werd ich nun nicht los.</Verse>
+            <Verse>In die Ecke,</Verse>
+            <Verse>Besen! Besen!</Verse>
+            <Verse>Seid's gewesen.</Verse>
+            <Verse>Denn als Geister</Verse>
+            <Verse>Ruft euch nur, zu seinem Zwecke,</Verse>
+            <Verse>Erst hervor der alte Meister.</Verse>
+        </Strophe>
+    </Poem>
+    
+    <Poem YearOfPublication="1945" Language="de">
+        <Author>
+            <FirstName>Berthold </FirstName>
+            <LastName>Brecht</LastName>
+        </Author>
+        <Title>Die Moritat von Mackie Messer</Title>
+        <Strophe>
+            <Verse>Und der Haifisch, der hat <Bold>Zähne</Bold></Verse>
+            <Verse>Und die trägt er im <Bold>Gesicht</Bold></Verse>
+            <Verse>Und Macheath, der hat ein Messer</Verse>
+            <Verse>Doch das Messer sieht man nicht.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Und es sind des Haifischs <Bold>Flossen</Bold></Verse>
+            <Verse>Rot, wenn dieser Blut vergiesst</Verse>
+            <Verse>Mackie Messer trägt'nen Handschuh</Verse>
+            <Verse>Drauf man keine Untat liest.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>An der Themse grünem Wasser</Verse>
+            <Verse>Fallen plötzlich Leute um</Verse>
+            <Verse>Es ist weder Pest noch Cholera</Verse>
+            <Verse>Doch es heisst: Mackie geht um.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>An'nem schönen blauen Sonntag</Verse>
+            <Verse>Liegt ein toter Mann am Strand</Verse>
+            <Verse>Und ein Mensch geht um die Ecke</Verse>
+            <Verse>Den man Mackie Messer nennt.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Und Schmul Meier bleibt Versechwunden</Verse>
+            <Verse>Und so mancher reiche Mann</Verse>
+            <Verse>Und sein Geld hat Mackie Messer</Verse>
+            <Verse>Dem man nichts beweisen kann.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Jenny Towler ward gefunden</Verse>
+            <Verse>Mit'nem Messer in der <Bold>Brust</Bold></Verse>
+            <Verse>Und am Kai geht Mackie Messer</Verse>
+            <Verse>Der von allem nichts gewusst.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Wo ist Alfons gleich, der Fuhrherr?</Verse>
+            <Verse>Kommt das je ans Sonnenlicht?</Verse>
+            <Verse>Wer es immer wissen könnte</Verse>
+            <Verse>Mackie Messer weiss es nicht.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Und das grosse Feuer in Soho</Verse>
+            <Verse>Sieben Kinder und ein Greis</Verse>
+            <Verse>In der Menge Mackie Messer, den</Verse>
+            <Verse>Man nicht fragt, und der nichts weiss.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Und die minderjähr'ge Witwe</Verse>
+            <Verse>Deren Namen jeder weiss</Verse>
+            <Verse>Wachte auf und war geschändet</Verse>
+            <Verse>Mackie welches war dein Preis?</Verse>
+        </Strophe>
+    </Poem>
+    
+    <Poem YearOfPublication="1890" Language="de">
+        <Author>
+            <FirstName>Heinrich Christian Wilhelm</FirstName>
+            <LastName>Busch</LastName>
+        </Author>
+        <Title> Pst!</Title>
+        <Strophe>
+            <Verse>Es gibt ja leider Sachen und Geschichten,</Verse>
+            <Verse>Die reizend und pikant,</Verse>
+            <Verse>Nur werden sie von Tanten und von Nichten</Verse>
+            <Verse>Niemals genannt.</Verse>
+        </Strophe>
+        
+        <Strophe>
+            <Verse>Verehrter Freund, so sei denn nicht vermessen,</Verse>
+            <Verse>Sei zart und schweig auch du.</Verse>
+            <Verse>Bedenk: Man liebt den Käse wohl, indessen</Verse>
+            <Verse>Man deckt ihn zu.</Verse>
+        </Strophe>
+    </Poem>
+    
+    <Poem YearOfPublication="-750" Language="el">
+        <Author>
+            <FirstName/>
+            <LastName>Όμηρος</LastName>
+        </Author>
+        <Title>Ιλιάδα</Title>
+        <Strophe>
+            <Verse>Μῆνιν ἄειδε, θεὰ, Πηληιάδεω Ἀχιλῆος</Verse>
+            <Verse>οὐλομένην, ἣ μυρί’ Ἀχαιοῖς ἄλγε’ ἔθηκε,</Verse>
+            <Verse>πολλὰς δ’ ἰφθίμους ψυχὰς Ἄϊδι προῒαψεν</Verse>
+            <Verse>ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν</Verse>
+            <Verse>οἰωνοῖσί τε πᾶσι• Διὸς δ’ ἐτελείετο βουλή</Verse>
+            <Verse>ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε</Verse>
+            <Verse>Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.</Verse>
+        </Strophe>
+    </Poem>
+</CollectionOfPoems>
