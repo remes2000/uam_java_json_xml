@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uniwersytet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="uniwersytet.xsd">
+  <wydział id="WMI" nazwa="Wydział Matematyki i Informatyki">
+    <adres>Uniwersytetu Poznańskiego 4, Poznań</adres>
+    <adres>Wieniawskiego 1, Poznań</adres>
+    <pracownicy>
+      <pracownik id="PRAC_1">
+        <imię>Marek</imię>
+        <nazwisko>Gałązka</nazwisko>
+        <tytuł>Dr</tytuł>
+        <kategoria>naukowy</kategoria>
+        <adres>
+          <ulica>Uniwersytetu Poznańskiego</ulica>
+          <numer>5</numer>
+          <kod_pocztowy>60-001</kod_pocztowy>
+          <miejscowość>Poznań</miejscowość>
+        </adres>
+      </pracownik>
+      <pracownik id="PRAC_2">
+        <imię>Jan</imię>
+        <nazwisko>Admin</nazwisko>
+        <kategoria>techniczny</kategoria>
+        <adres>
+          <ulica>Uniwersytetu Przyrodniczego</ulica>
+          <numer>1</numer>
+          <kod_pocztowy>60-001</kod_pocztowy>
+          <miejscowość>Luboń</miejscowość>
+        </adres>
+        <adres>
+          <ulica>Galileusza</ulica>
+          <numer>50</numer>
+          <kod_pocztowy>60-001</kod_pocztowy>
+          <miejscowość>Poznań</miejscowość>
+        </adres>
+      </pracownik>
+    </pracownicy>
+    <przedmioty>
+      <przedmiot kod="CG">
+        <nazwa>Grafika komputerowa</nazwa>
+        <opis>Podstawy OpenGL</opis>
+        <liczba_studentów>10</liczba_studentów>
+        <prowadzący>PRAC_1</prowadzący>
+      </przedmiot>
+      <przedmiot kod="SOP">
+        <nazwa>Systemy operacyjne</nazwa>
+        <opis>Podstawy systemów z rodziny UNIX</opis>
+        <liczba_studentów>50</liczba_studentów>
+        <prowadzący>PRAC_1</prowadzący>
+        <prowadzący>PRAC_2</prowadzący>
+      </przedmiot>
+    </przedmioty>
+  </wydział>
+</uniwersytet>
