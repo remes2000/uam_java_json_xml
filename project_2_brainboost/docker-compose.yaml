@@ -1,0 +1,17 @@
+version: '3.3'
+
+services: 
+  postgresdb:
+    image: postgres:15.2
+    container_name: uam_json_postgres
+    ports: 
+      - 6060:5432
+    environment:
+      - POSTGRES_DB=uam_json_xml
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres
+    volumes: 
+      - postgresdb-data:/var/lib/postgresql/data
+
+volumes: 
+  postgresdb-data:

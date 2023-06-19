@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+  xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:pro="http://www.liquibase.org/xml/ns/pro"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.1.xsd
+                      http://www.liquibase.org/xml/ns/pro http://www.liquibase.org/xml/ns/pro/liquibase-pro-4.1.xsd">
+
+  <changeSet author="nieruchalskim" id="008-add-order-number-column-to-module-table">
+    <preConditions onFail="MARK_RAN">
+      <not>
+        <columnExists tableName="module" columnName="order_number" />
+      </not>
+    </preConditions>
+
+    <addColumn tableName="module">
+      <column name="order_number" type="integer" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </addColumn>
+  </changeSet>
+
+  <changeSet author="nieruchalskim" id="008-add-order-number-column-to-lesson-table">
+    <preConditions onFail="MARK_RAN">
+      <not>
+        <columnExists tableName="lesson" columnName="order_number" />
+      </not>
+    </preConditions>
+
+    <addColumn tableName="lesson">
+      <column name="order_number" type="integer" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </addColumn>
+  </changeSet>
+
+  <changeSet author="nieruchalskim" id="008-add-order-number-column-to-course-element-table">
+    <preConditions onFail="MARK_RAN">
+      <not>
+        <columnExists tableName="course_element" columnName="order_number" />
+      </not>
+    </preConditions>
+
+    <addColumn tableName="course_element">
+      <column name="order_number" type="integer" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </addColumn>
+  </changeSet>
+
+</databaseChangeLog>

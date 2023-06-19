@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+<databaseChangeLog
+   xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:pro="http://www.liquibase.org/xml/ns/pro"
+   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.1.xsd
+      http://www.liquibase.org/xml/ns/pro 
+      http://www.liquibase.org/xml/ns/pro/liquibase-pro-4.1.xsd">  
+
+   <property name="uuid_type" value="uuid" dbms="postgresql"/>
+   <property name="uuid_function" value="gen_random_uuid()" dbms="postgresql"/>
+
+   <include file="changeset/001-add-course-table.xml" relativeToChangelogFile="true" />
+   <include file="changeset/002-add-course-status-column.xml" relativeToChangelogFile="true" />
+   <include file="changeset/003-add-removed-column-to-course-table.xml" relativeToChangelogFile="true" />
+   <include file="changeset/004-add-module-table.xml" relativeToChangelogFile="true" />
+   <include file="changeset/005-add-lesson-table.xml" relativeToChangelogFile="true" />
+   <include file="changeset/006-add-course-element-table.xml" relativeToChangelogFile="true" />
+   <include file="changeset/007-add-element-markdown-text-table.xml" relativeToChangelogFile="true" />
+   <include file="changeset/008-add-course-order-columns.xml" relativeToChangelogFile="true" />
+   <include file="changeset/009-add-element-youtube-video.xml" relativeToChangelogFile="true" />
+</databaseChangeLog>
