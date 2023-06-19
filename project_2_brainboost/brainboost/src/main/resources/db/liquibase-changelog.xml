@@ -20,4 +20,5 @@
    <include file="changeset/007-add-element-markdown-text-table.xml" relativeToChangelogFile="true" />
    <include file="changeset/008-add-course-order-columns.xml" relativeToChangelogFile="true" />
    <include file="changeset/009-add-element-youtube-video.xml" relativeToChangelogFile="true" />
+   <include file="changeset/010-add-start-date-column.xml" relativeToChangelogFile="true" />
 </databaseChangeLog>

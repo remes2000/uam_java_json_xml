@@ -1,12 +1,13 @@
 package com.brainboost.brainboost.course;
 
+import java.time.ZonedDateTime;
 import java.util.List;
 import java.util.UUID;
 
 import com.brainboost.brainboost.course.module.ModuleEntity;
 
 import jakarta.persistence.CascadeType;
-
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
@@ -34,6 +35,9 @@ public class CourseEntity {
   private CourseStatus status;
 
   private boolean removed;
+  
+  @Column(name = "start_date")
+  private ZonedDateTime startDate;
 
   @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true)
   @JoinColumn(name = "course_id", nullable = false)

@@ -39,6 +39,7 @@ public class CourseService {
             .orElseThrow(() -> new RuntimeException("Entity not found"));
         courseToUpdate.setName(course.getName());
         courseToUpdate.setStatus(course.getStatus());
+        courseToUpdate.setStartDate(course.getStartDate());
         if (course.getModules() != null) {
             courseToUpdate.setModules(course.getModules());
             courseToUpdate.updateOrder();
